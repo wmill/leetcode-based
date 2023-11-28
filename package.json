@@ -1,5 +1,5 @@
 {
-  "name": "regex",
+  "name": "leetcode-base",
   "version": "1.0.0",
   "description": "Leetcode solution",
   "main": "index.js",
