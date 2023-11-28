@@ -1,4 +1,4 @@
-A blank project I can checkout when I'm doing leetocde locally with tests.
+A blank project I can checkout when I'm doing leetcode locally with tests.
 
 Not really interesting for anyone else.
 
